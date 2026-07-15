@@ -1,5 +1,3 @@
-<img width="457" height="347" alt="image" src="https://github.com/user-attachments/assets/882b2012-d888-4952-956c-324fa11e7d33" /># Food-Delivery-Sales-Analysis-using-Power-BI
-
 # Project Overview
 
 This project analyzes food delivery operations using Power BI. The dataset contains customer, restaurant, delivery partner, and order information.
